@@ -1,12 +1,5 @@
-// ==UserScript==
-// @name         YTScript
-// @namespace    http://tampermonkey.net/
-// @version      0.3
-// @description  try to take over the world!
-// @author       ignuxas
-// @match        https://www.youtube.com
-// @grant        none
-// ==/UserScript==
+// By: Ignas Mikolaitis
+// Website: ignuxas.com
  
 (function() {
     'use strict';
